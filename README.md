@@ -1,4 +1,4 @@
-# Adarsh-kumar_Jp-morgan-chase-virtual-internship
+# Atmakuri_Naga_Sindhu_Jp-morgan-chase-virtual-internship
 This virtual internship was under JP Morgan Chase and Co. on Excel Skills by Forage.
 
 # Problem Statment
